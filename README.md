@@ -1,4 +1,3 @@
-
 <img align="right" src="https://visitor-badge.laobi.icu/badge?page_id=dozhd1k.DoZhD1k" />
 
 <h1 align="center">
@@ -21,19 +20,72 @@
 ### 🧬 DNA: Who I Am (in Code)
 
 ```ts
-const Arlen = {
+const arlen = {
+  pronouns: "He" | "Him",
+  name: "Arlen Chereshnikov",
   alias: "DoZhD1k",
+  location: "Almaty, Kazakhstan",
   role: "Front-end Developer",
+  experienceSince: 2022,
   workplace: "Almaty Development Center",
-  stack: {
-    core: ["Next.js", "React", "TailwindCSS", "TypeScript"],
-    backend: ["Node.js", "PostgreSQL", "Prisma"],
-    extras: ["Tauri", "Rust", "ShadcnUI", "Framer Motion"],
+
+  code: ["TypeScript", "JavaScript", "Rust", "SQL", "Solidity", "CSS", "Python (basic)"],
+  
+  askMeAbout: [
+    "frontend architecture",
+    "UI/UX design systems",
+    "desktop apps with Tauri",
+    "Next.js optimization",
+    "modular design"
+  ],
+
+  technologies: {
+    frontEnd: {
+      frameworks: ["React", "Next.js (App Router)"],
+      styling: ["Tailwind CSS", "CSS Modules", "SCSS"],
+      uiLibraries: ["ShadcnUI", "Framer Motion", "Lucide"]
+    },
+    backEnd: {
+      js: ["Node.js", "Express"],
+      db: ["PostgreSQL", "MySQL", "SQLite"],
+      auth: ["JWT Auth", "Server-side sessions"],
+      tooling: ["Zod", "React Hook Form"]
+    },
+    desktop: {
+      toolchain: ["Tauri", "Rust"],
+      features: ["Voice Commands", "App Launcher", "Local Storage"]
+    },
+    dataVisualization: {
+      maps: ["GeoJSON", "Mapbox GL"],
+      visuals: ["Three.js"]
+    },
+    experimental: {
+      blockchain: ["Solidity", "Smart Contracts", "Thirdweb"],
+      machineLearning: ["ML APIs", "Data Preprocessing"]
+    },
+    tools: ["VSCode", "Figma", "Vercel", "Postman", "GitHub"]
   },
-  tools: ["VSCode", "Figma", "Vercel", "Postman", "Zod"],
+
+  architecture: {
+    frontEnd: ["SPA", "SSR", "Component-based", "Atomic Design"],
+    backEnd: ["Modular API", "Session-based Auth"],
+    desktop: ["Local-first", "Cross-platform via Tauri"],
+    database: ["Relational (PostgreSQL, MySQL)", "File-based (SQLite)"]
+  },
+
+  currentFocus: "Creating meaningful user interfaces and shipping powerful local-first tools with Tauri.",
+
+  strengths: [
+    "Pixel-perfect implementation",
+    "Clean and scalable UI logic",
+    "Complex app structure with simplicity in mind",
+    "Fast iteration and real-world delivery"
+  ],
+
   motto: "Design it like an artist. Build it like an engineer.",
   funFact: "My best UI ideas usually come to me at 2AM with lo-fi beats playing."
 };
+
 ```
 
 ---
@@ -102,7 +154,7 @@ const Arlen = {
 
 ---
 
-### 💬 Wall of Love (Soon)
+### 💬 Wall of Love
 
 > _"His UI implementations are pixel-perfect."_  
 > _"Fast, neat, and full of cool transitions."_  
@@ -114,12 +166,53 @@ const Arlen = {
 ### 📈 GitHub Vibes
 
 <div align="center">
-  <img src="https://streak-stats.demolab.com?user=DoZhD1k&theme=tokyonight&border_radius=10" />
-  <br/>
-  <img width=390 src="https://github-readme-stats.vercel.app/api?username=DoZhD1k&count_private=true&show_icons=true&theme=tokyonight&rank_icon=github&border_radius=10" />
-  <br/>
-  <img width=390 src="https://github-readme-stats.vercel.app/api/top-langs/?username=DoZhD1k&hide=html&langs_count=8&layout=compact&theme=tokyonight&border_radius=10" />
+
+<table>
+  <tr>
+    <td align="center">
+      <b>Total Contributions</b><br/>
+      <img src="https://img.shields.io/badge/133%20Contributions-%20green?style=flat-square" />
+      <br/><sub>Since Apr 13, 2023</sub>
+    </td>
+    <td align="center">
+      <b>Current Streak</b><br/>
+      <img src="https://img.shields.io/badge/1%20day-blue?style=flat-square" />
+      <br/><sub>As of Apr 14</sub>
+    </td>
+    <td align="center">
+      <b>Longest Streak</b><br/>
+      <img src="https://img.shields.io/badge/3%20days-purple?style=flat-square" />
+      <br/><sub>Dec 14–16, 2024</sub>
+    </td>
+  </tr>
+</table>
+
+<br/>
+
+<table>
+  <tr>
+    <td>
+      <b>GitHub Stats</b><br/><br/>
+      ⭐ Stars: 3<br/>
+      🔁 Commits (2025): 37<br/>
+      📦 PRs: 2<br/>
+      🐞 Issues: 0<br/>
+      🧑‍💻 Contributed to: 1 repo in the last year
+    </td>
+    <td>
+      <b>Most Used Languages</b><br/><br/>
+      - TypeScript: 40.47%<br/>
+      - JavaScript: 39.51%<br/>
+      - CSS: 7.88%<br/>
+      - Rust: 6.12%<br/>
+      - Java: 4.79%<br/>
+      - Solidity / Python / SCSS: ~1%
+    </td>
+  </tr>
+</table>
+
 </div>
+
 
 ---
 
