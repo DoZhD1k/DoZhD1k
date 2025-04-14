@@ -42,18 +42,16 @@ const arlen = {
   technologies: {
     frontEnd: {
       frameworks: ["React", "Next.js (App Router)"],
-      styling: ["Tailwind CSS", "CSS Modules", "SCSS"],
+      styling: ["Tailwind CSS", "CSS Modules"],
       uiLibraries: ["ShadcnUI", "Framer Motion", "Lucide"]
     },
     backEnd: {
       js: ["Node.js", "Express"],
       db: ["PostgreSQL", "MySQL", "SQLite"],
-      auth: ["JWT Auth", "Server-side sessions"],
       tooling: ["Zod", "React Hook Form"]
     },
     desktop: {
       toolchain: ["Tauri", "Rust"],
-      features: ["Voice Commands", "App Launcher", "Local Storage"]
     },
     dataVisualization: {
       maps: ["GeoJSON", "Mapbox GL"],
