@@ -12,7 +12,7 @@
  
  🔭 I’m currently internship at **a Almaty Development Center**
  
- 🌱 I’m currently learning **Docker, Java, Kotlin**
+ 🌱 I’m currently learning **Tauri, Rust**
 
 💬 Ask me about **Node.js, React, Firebase... or anything [here](https://github.com/DoZhD1k/DoZhD1k/issues)**
 
